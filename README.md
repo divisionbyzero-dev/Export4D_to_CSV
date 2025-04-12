@@ -60,6 +60,10 @@ Ejecute el método desde su entorno 4D.
 Aparecerá un cuadro de diálogo para seleccionar la carpeta de destino.
 
 ---
+## Author
+
+Made by DivisionByZero a long-time 4D developer.  
+More about code : [divisionbyzero.dev](https://www.divisionbyzero.dev)
 
 ## License
 
